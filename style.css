@@ -1,0 +1,77 @@
+html {
+    font-family: Arial, sans-serif;
+    background-color: 
+    #141414;
+    color: white;
+}
+p{
+    font-size: 14px;
+}
+body{
+    max-width: 48em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-inline: 2em;
+}
+
+div.container{
+    background-color: 
+    black;
+    padding-top: 0.25em;
+    border-radius: 4px;
+    max-width:fit-content;
+}
+
+div.subcontainer{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    max-width:fit-content;
+    margin-inline: auto;
+}
+
+div.ultimoslancamentos{
+    background-color: 
+    #00A303;
+    max-width: fit-content;
+    max-height: fit-content;
+    margin-inline: 1em;
+    border-radius: 4px;
+}
+div.ultimoslancamentos > h2{
+    padding-block: 0.25em;
+    padding-inline: 0.25em;
+}
+
+div.card{
+    background-color: 
+    #141414;
+    max-width: 150px;
+    margin-inline: 1em;
+    margin-block: 1em;
+    border-radius: 4px;
+}
+
+div.card >img{
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 4px 4px 0px 0px;
+}
+
+div.card > div.text{
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+}
+
+@media (max-width: 375px){
+    body{
+        max-width: fit-content;
+        padding-inline: 0px;
+    }
+
+    div.card{
+        max-width: 150px;
+        margin-inline: 0.5em;
+        margin-block: 0.5em;
+    }
+}
