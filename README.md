@@ -1,5 +1,7 @@
 # Desafio 2 - Playlist de Reggae
 
+# [Link](https://luisrguerra.github.io/Desafio-2-2023.1-CV/)
+
 Este desafio tem como objetivo a implementação de uma tela em HTML e CSS, seguindo um layout ~~copiado~~ desenvolvido para esta atividade, que pode ser encontrado neste [link](https://www.figma.com/file/skqoFYlPS9FIEtzxjv70Rw/REGGAE-AMADOR?node-id=105%3A2&t=kWqddMu84Xm1g9Lh-1) do Figma. A tela consiste em uma playlist de Reggae que deve ser responsiva, conforme demonstrado no layout para as orientações de organização em modo paisagem ou retrato. Porém, os placeholders das músicas e álbuns devem ser substituídos por músicas e álbuns reais de reggae.
 
 Caso surjam dúvidas, é possível contatar um monitor ou utilizar o fórum da capacitação. Porém, é importante lembrar que as competências para compreender os requisitos e formular as perguntas corretas para o cliente são tão cruciais quanto o conhecimento técnico.
